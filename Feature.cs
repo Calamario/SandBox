@@ -8,7 +8,7 @@ namespace AzureTasksProvider
 {
     public static class Constants
     {
-        private static readonly string SQLDBConnectionString = "Data Source=test.database.windows.net;Initial Catalog=test;Persist Security Info=True;User ID=test;Password=password123";
+        private static readonly string SQLDBConnectionString = "Data Source=test.database.windows.net;Initial Catalog=test;Persist Security Info=True;User ID=test;Password=[PLACEHOLDER]";
 
         public const string IssuerKey = "dOTCs2xYkd7CWPJfhRvqCg0U1CRdL8PhhfRGGxgd4Ts="; 
 
