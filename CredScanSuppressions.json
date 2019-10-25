@@ -1,0 +1,9 @@
+{
+  "tool": "Credential Scanner",
+  "suppressions": [
+    {
+      "placeholder": "dOTCs2xYkd7CWPJfhRvqCg0U1CRdL8PhhfRGGxgd4Ts=",
+      "_justification": "Not a real cred, suppressed from Local suppression"
+    }
+  ]
+}
